@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "591037439148",
+    "project_id": "weatherwatchface-5a823"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591037439148:android:83b792e26f07bf18",
+        "android_client_info": {
+          "package_name": "com.explore.archana.weatherwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591037439148-r37anq6opo9sdqnrhbo3mfhklrh2femc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.explore.archana.weatherwear",
+            "certificate_hash": "F6C067CEAB6D2A52706715293645CAA58B969893"
+          }
+        },
+        {
+          "client_id": "591037439148-9a9m20ds78ueoeujgor2i050nqg6gaqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uO6oVgSQkY87f7XLfVduCi2jS-fVolc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591037439148:android:d14def937e5422f2",
+        "android_client_info": {
+          "package_name": "com.explore.archana.weatherwear"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591037439148-gg9u8fl2i5d5r7gv4oe5kblmok3dkp9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.explore.archana.weatherwear",
+            "certificate_hash": "F6C067CEAB6D2A52706715293645CAA58B969893"
+          }
+        },
+        {
+          "client_id": "591037439148-9a9m20ds78ueoeujgor2i050nqg6gaqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_uO6oVgSQkY87f7XLfVduCi2jS-fVolc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
